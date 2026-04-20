@@ -11,11 +11,12 @@ Pre - Requisities
 
 1. Before running the bot, select the company you want and the period you want for the daybook to be exported in Tally
 2. Maintain the export format as html in daybook before starting 
-3.  Now before running the bot, you require some of the python packages to be installed in your system. Before that basically you must install Python
+3.  Now before running the bot, you require some of the external python packages to be installed in your system. Before that basically you must install Python
     And then, all the packages based on the code shared ( Like if there is import pyautogui, you should have installed pyautogui... so that only it could be imported)
     For installing the packages, you can go to command prompt and type like 'pip install pyautogui' ( For other packages, same syntax with other packages).
     It uses pip utility which would generally be installed along with python installation. You can see the packages list in command prompt by typing 'pip list'
-    You can also use AI to see what packages are required for the code to be used by simply copying the code and paste it to AI and ask what packages are required to be installed to use this code?. This is a better way
+    For this code, this can be typed in command prompt 'pip install pyautogui'
+    You can also use AI to see what packages are required for the code to be used by simply copying the code and pasting it in AI and ask what packages are required to be installed to use this code?. This is a better way
 4. After running the bot, You would get a high pitched sound. After hearing that, quickly go to the tally window manually 
 
 Commands given to the Bot
