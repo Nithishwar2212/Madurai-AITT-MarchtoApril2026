@@ -1,3 +1,13 @@
+Sales Soldier 
+
+Welcome to Sales Soldier
+
+Sales Soldier is a smart and practical GST support application designed especially for small, micro, and medium taxpayers who find it difficult to prepare and file GSTR-1 returns independently.
+
+Many small business owners have limited sales volume and cannot always afford professional compliance assistance every month. At the same time, filing GSTR-1 manually through the GST Portal or through the Offline Utility can be confusing, time-consuming, and technically difficult.
+
+Sales Soldier was created to solve that practical problem by simplifying the return preparation process into a user-friendly system.
+
 Sales Soldier Setup
 
 1. Install Python on the new computer.
