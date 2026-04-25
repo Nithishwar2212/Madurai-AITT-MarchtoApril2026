@@ -11,7 +11,7 @@ Sales Soldier was created to solve that practical problem by simplifying the ret
 Sales Soldier Setup
 
 1. Install Python on the new computer.
-2. Download the zip file and open that folder.
+2. Download the zip file and extract the files to open that folder.
 3. Double-click Install_Sales_Soldier.bat to install required Python packages.
 4. Open the software using Sales Soldier.lnk, Sales Soldier.vbs, or Run_Sales_Soldier.bat.
 
